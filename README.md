@@ -9,7 +9,7 @@ Olá, meu nome é Jaime Modesto Júnior, web  developer e engenheiro mecânico e
 
   -  :blue_book: Learn-a-thon da Cisco Brasil, através da plataforma NetAcad, onde terminei com sucesso a maratona e conquistei uma bolsa para os cursos de CCNA 1 e Network Security, sendo o primeiro já concluído e o segundo em andamento;
    
-  -  :orange_book: Big Data Engineer, na plataforma Semantix Academy, oferecido pela empresa Semantix, curso que aborda tópicos como Big Data Foundations, MongoDB, Redis, Kafka, ElasticSearch e Spark, fornecendo, ao final de cada módulo, certificação em formado de badges; 
+  -  :orange_book: Big Data Engineer, na plataforma Semantix Academy, oferecido pela empresa Semantix, curso que aborda tópicos como Big Data Foundations, MongoDB, Redis, Kafka, ElasticSearch e Spark, fornecendo, ao final de cada módulo, certificação em formato de badges; 
   
   -  :green_book: Fui recentemente selecionado para o treinamento em fullstack com ênfase em e-commerce usando o framework VTEX, pela plataforma Gama Academy, através do programa Hiring Coders.
 <!--
