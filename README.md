@@ -3,7 +3,7 @@ Olá, meu nome é Jaime Modesto Júnior, estudante de desenvolvimento web, gradu
 
 - :mortar_board: Atualmente faço graduação em engenharia mecânica, na Universidade Federal Fluminense, onde fiz iniciação científica em modelagem computacional de problemas físicos relacionados a MEMS, utilizando linguagens de programação como C, Fortran e Python;
  
-- :computer: Sempre fui apaixonado por tecnologia da informação e, no início desse ano, resolvi embarcar de vez na área, estudando por conta própria e também realizando cursos e bootcamps, nas áreas de Desenvolvimento Web e Cibersegurança, subáreas da tecnologia da informação que eu considero correlatas e complementares;
+- :computer: Sempre fui apaixonado por tecnologia da informação e, no início desse ano, resolvi embarcar de vez na área, estudando por conta própria e também realizando cursos e bootcamps, nas áreas de Desenvolvimento de Software, Engenharia de Dados e Cibersegurança, subáreas da tecnologia da informação que eu considero correlatas e complementares;
 
 - :books: Aproveito cada oportunidade que me é ofertada para realizar cursos e bootcamps ofertados por empresas e plataformas, pois a área da tecnologia da informação é de constante aprendizagem, atualização e estudos, e, apesar do autodidatismo ser algo bom, diria que até indispensável na área da T.I, uma tutoria e/ou direcionamento é, e sempre será, de extrema relevância e muito bem-vinda por mim.
 
